@@ -8,6 +8,7 @@ android {
     namespace 'com.befovy.fijkplayer'
     defaultConfig {
         minSdkVersion 16
+        targetSdkVersion 31
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     lintOptions {
